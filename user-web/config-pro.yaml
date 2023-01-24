@@ -1,0 +1,11 @@
+#name: "user_web"
+#user-srv:
+#  host: "127.0.0.1"
+#  port: 50051
+host: '127.0.0.1'
+port: 8848
+namespace: '7149e2fe-6cbe-43ba-97b4-33673c24fe5a'
+user: 'nacos'
+password: 'nacos'
+dataid: 'user-web.json'
+group: 'dev'
